@@ -1,0 +1,1 @@
+int check_with_bad_compare(char* a);
